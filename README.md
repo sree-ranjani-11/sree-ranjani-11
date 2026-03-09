@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sreeranjani 👋
 
-<!--
-**sree-ranjani-11/sree-ranjani-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in AI Engineering  
+📍 Currently studying in Germany  
 
-Here are some ideas to get you started:
+## What I'm currently doing
+- Learning Artificial Intelligence and Machine Learning
+- Building Python and Data Science projects
+- Solving algorithm problems daily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | Machine Learning | Data Science | Git | Linux
+
+## Current Learning Journey
+You can follow my learning progress here:
+👉 AI-Learning-Journey Repository
+
+I push code daily as I build my AI engineering skills.
